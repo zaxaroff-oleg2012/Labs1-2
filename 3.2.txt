@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <link rel="stylesheet" href="Css/style.css">
+    <title>Лабораторная работа №1</title>
+</head>
+
+<body>
+<h1>Пример формы регистрации</h1>
+
+ Логин
+ <br><input type="text">
+Пароль
+ <br><input type="text">
+URL-адрес сайта
+ <br><input type="text">
+Название сайта
+ <br><input type="text">
+
+
+
+
+
+</body>
+
+</html>
